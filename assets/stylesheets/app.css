@@ -2339,7 +2339,7 @@ html {
 -------------------------------------------------------------- */
 /* Headings */
 .styled-h1, h1 {
-  font-family: "Playfair Display", "Times New Roman", Times, serif;
+   font-family: 'Roboto', sans-serif;
   font-size: 7.625rem;
   line-height: 1.2; }
   @media screen and (max-width: 64em) {
@@ -2350,7 +2350,7 @@ html {
       font-size: 3.125rem; } }
 
 .styled-h2, h2 {
-  font-family: "Playfair Display", "Times New Roman", Times, serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 3.75rem;
   line-height: 1.2; }
   @media screen and (max-width: 48em) {
@@ -2361,7 +2361,7 @@ html {
       font-size: 2.5rem; } }
 
 .styled-h3, h3 {
-  font-family: "Playfair Display", "Times New Roman", Times, serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 2.5rem;
   line-height: 1.2; }
   @media screen and (max-width: 48em) {
