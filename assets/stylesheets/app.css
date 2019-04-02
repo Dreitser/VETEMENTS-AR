@@ -2316,8 +2316,8 @@ input:-ms-input-placeholder {
     transform: translateY(0); } }
 /* Main initialization */
 html {
-  background-color: #fafafa;
-  color: #343434;
+  background-color: #FFFFFF;
+  color: #FFFFFF;
   font-family: "Poppins", "Helvetica Neue", "Arial", sans-serif;
   font-weight: 400;
   line-height: 1.8;
